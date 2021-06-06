@@ -4,7 +4,7 @@
 # How To Use?
 ## Install Required Python Modules
 ##### 1. Open CV
-```pip install cv2```
+``pip install opencv-python```
 ##### 2. Media Pipe
 ``` pip install mediapipe ```
 ##### 3. Numpy
