@@ -11,6 +11,7 @@
 ``` pip install numpy``` This will be automatically downloaded when downloading Media Pipe, otherwise download in manually
 ## Fork Project
 <img height="180px" width="900px" src="20210606_224435.jpg"/>
+
 ### OR
 
 ## Clone Project   
