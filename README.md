@@ -9,6 +9,8 @@
 ``` pip install mediapipe ```
 ##### 3. Numpy
 ``` pip install numpy``` This will be automatically downloaded when downloading Media Pipe, otherwise download in manually
+## Fork Project
+
 ## Clone Project   
 ```git clone https://github.com/KrishnaVyshak/HandGestureVolumeController.git ```
 # Modules Used
