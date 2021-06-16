@@ -1,6 +1,6 @@
 # Control Volume With Hand Gesture
 
-(screenshort)["2a.jpg"]
+![screenshort](2a.jpg)
 ## Description
 #### Control the volume with hand gesture, written in python.
 # How To Use?
